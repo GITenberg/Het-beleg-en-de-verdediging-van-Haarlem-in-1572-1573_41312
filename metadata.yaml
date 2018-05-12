@@ -1,0 +1,30 @@
+_repo: Het-beleg-en-de-verdediging-van-Haarlem-in-1572-1573_41312
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41312-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Capelle, J. van de
+    aliases:
+    - Bosdijk, Jacques Francois
+    - Bosdijk, Jacques François
+    birthdate: 1812
+    deathdate: 1850
+    gutenberg_agent_id: '41106'
+    url: http://www.gutenberg.org/2009/agents/41106
+description: ''
+gutenberg_issued: '2012-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41312'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Haarlem (Netherlands) -- Siege, 1572-1573'
+- !lcsh 'Netherlands -- History -- Eighty Years'' War, 1568-1648'
+- !lcc 'DH'
+title: Het beleg en de verdediging van Haarlem, in 1572-1573 (deel 1 van 3)
+url: http://www.gutenberg.org/ebooks/41312
